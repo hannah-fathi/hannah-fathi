@@ -7,20 +7,22 @@
 
 ### About Me
 
-I am a highly motivated Master's student in **Artificial Intelligence and Robotics** at Shiraz University, with a strong passion for research and continuous learning.
+I am a research-oriented Master's student in **Artificial Intelligence and Robotics** at Shiraz University, driven by a strong passion for scientific inquiry, reproducible research, and continuous learning.
 
-I ranked **1st** among my classmates in Computer Engineering and received the official top-rank certificate during my Bachelor's studies and graduated with a GPA of **18.4/20 (≈ 3.7/4.0)**.  
+I ranked **1st** among my classmates in Computer Engineering, received the official top-rank certificate, and graduated with a GPA of **18.4/20 (≈ 3.7/4.0)**.
 
-My research focuses on **Computer Vision**, **Medical AI**, **Remote Sensing / GeoAI**, and **Explainable Machine Learning**. I am particularly interested in developing reproducible, interpretable, and practical solutions that bridge classical methods with modern deep learning techniques.
+My work focuses on developing interpretable and practical solutions at the intersection of **Computer Vision**, **Medical AI**, **Remote Sensing / GeoAI**, and **Explainable Machine Learning**. I am particularly interested in implementing research papers whose official code is not publicly available and in building end-to-end, reproducible pipelines that bridge classical methods with modern deep learning techniques.
 
-I have hands-on experience as a Teaching Assistant for undergraduate Artificial Intelligence and Operating Systems courses, where I designed assignments, quizzes, and educational materials. I am driven by curiosity, research excellence, and the desire to contribute meaningfully to the fields of geospatial intelligence, biomedical image analysis, and computational biology.
+During my Bachelor's studies, I fully taught the **Operating Systems Laboratory** course and prepared the complete course materials. In my Master's program, I serve as a Teaching Assistant for the Artificial Intelligence course, where I design homework assignments and educational content.
+
+I am currently working on two interdisciplinary research papers and preparing my Master's thesis in the field of **Remote Sensing**.
 
 ---
 
 ### 🔭 Currently Working On
 
-- Two research papers (in preparation)
-- Master's thesis proposal
+- Two research papers in **Medical Imaging** and **Construction Risk Management** (in preparation)
+- Master's thesis in **Remote Sensing / GeoAI**
 
 ---
 
@@ -76,7 +78,9 @@ I have hands-on experience as a Teaching Assistant for undergraduate Artificial 
 
 ### 💬 A Note
 
-I am passionate about building transparent, reproducible, and research-driven solutions.  
+I am passionate about conducting rigorous, transparent, and reproducible research.  
+I enjoy implementing scientific papers from scratch and developing practical AI systems that can be reliably used in real-world settings.  
+
 Feel free to explore my repositories — most of them include detailed documentation, experimental results, and complete pipelines.
 
 ---
