@@ -9,7 +9,7 @@
 
 I am a research-oriented Master's student in **Artificial Intelligence and Robotics** at Shiraz University, driven by a strong passion for scientific inquiry, reproducible research, and continuous learning.
 
-I ranked **1st** among my classmates in Computer Engineering, received the official top-rank certificate, and graduated with a GPA of **4.0**.
+I ranked **1st** among my classmates in Computer Engineering, received the official top-rank certificate, and graduated with a GPA of **18.40/20.00**.
 
 My work focuses on developing interpretable and practical solutions at the intersection of **Computer Vision**, **Medical AI**, **Remote Sensing / GeoAI**, and **Explainable Machine Learning**. I am particularly interested in implementing research papers whose official code is not publicly available and in building end-to-end, reproducible pipelines that bridge classical methods with modern deep learning techniques.
 
