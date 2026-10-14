@@ -113,7 +113,7 @@ Independent teaching of undergraduate laboratory courses and preparation of comp
 
 ### Research Direction
 
-My research is directed toward advancing **Medical AI**, with a particular focus on **AI for Cancer**.
+My research is directed toward advancing **Medical AI**, with a particular focus on **Computer Vision**.
 
 I am especially interested in:
 - MRI-based brain tumor segmentation and analysis  
