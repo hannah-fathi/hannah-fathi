@@ -111,7 +111,7 @@ Independent teaching of undergraduate laboratory courses and preparation of comp
 
 ---
 
-### Research Interests
+### Research Interests & Long-term Goals
 
 I am especially drawn to problems that combine geometry, structure, and uncertainty:
 
@@ -121,7 +121,9 @@ I am especially drawn to problems that combine geometry, structure, and uncertai
 - Medical image understanding and clinical decision support  
 - Foundation models for scientific and engineering applications
 
-While I have a strong interest in medical AI, I develop methods that transfer across domains — from remote sensing and architectural modeling to biomedical networks.
+My long-term goal is to become a specialist in **medical AI**, with a particular focus on **brain-related problems** and **cancer** (image and signal analysis, trustworthy models, and clinically relevant decision support). I aim to pursue postdoctoral research in this direction.
+
+While I currently develop and apply methods across different domains, everything I build is intended to strengthen the foundations I will need for that path.
 
 ---
 
