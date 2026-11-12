@@ -86,10 +86,10 @@ I aim to move rigorously from:
 
 ### Professional Experience
 
-**AI Engineer** — Freelance  
+**AI Engineer** - Freelance  
 Design and development of machine learning systems and AI-oriented applications.
 
-**Software Programmer** — Freelance  
+**Software Programmer** - Freelance  
 Software development across Python, systems programming, and applied intelligent systems.
 
 **Artificial Intelligence Teaching Assistant**  
