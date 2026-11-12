@@ -11,7 +11,7 @@ I am an AI researcher focused on building careful, reproducible methods in compu
 
 My work centers on representation learning, hierarchical graph models, foundation-model embeddings, and explainable systems. I have hands-on experience with large-scale satellite foundation models (**Galileo** and **AlphaEarth**) for crop classification and agricultural mapping, as well as classical and deep approaches to medical image analysis and biomedical graphs.
 
-I am currently working on **Semantic 2D CAD-to-BIM Reconstruction** — using hierarchical graph learning and conditional flow matching to turn raw architectural drawings into structured, parametric building information models.
+I am currently working on **Semantic 2D CAD-to-BIM Reconstruction** - using hierarchical graph learning and conditional flow matching to turn raw architectural drawings into structured, parametric building information models.
 
 I am particularly interested in medical AI and trustworthy systems for clinical decision support. At the same time, I develop and apply methods across domains where geometry, structure, and uncertainty matter.
 
@@ -19,12 +19,12 @@ I am particularly interested in medical AI and trustworthy systems for clinical 
 
 ### Core Expertise
 
-- **Graph & Geometric Learning** — Hierarchical graph neural networks, graph kernels, optimal transport, relational and multi-level reasoning  
-- **Computer Vision** — Semantic segmentation, morphological image analysis, multi-scale processing, remote sensing  
-- **Representation Learning** — Embedding design, foundation-model representations, transfer evaluation  
-- **Generative Models** — Flow matching, conditional generation, geometry-aware synthesis  
-- **Explainable AI (XAI)** — Interpretable models, uncertainty-aware reasoning, transparent pipelines  
-- **Research Engineering** — From-scratch implementations, rigorous experimental design, reproducible pipelines
+- **Graph & Geometric Learning** - Hierarchical graph neural networks, graph kernels, optimal transport, relational and multi-level reasoning  
+- **Computer Vision** - Semantic segmentation, morphological image analysis, multi-scale processing, remote sensing  
+- **Representation Learning** - Embedding design, foundation-model representations, transfer evaluation  
+- **Generative Models** - Flow matching, conditional generation, geometry-aware synthesis  
+- **Explainable AI (XAI)** - Interpretable models, uncertainty-aware reasoning, transparent pipelines  
+- **Research Engineering** - From-scratch implementations, rigorous experimental design, reproducible pipelines
 
 ---
 
